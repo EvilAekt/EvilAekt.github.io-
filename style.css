@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#About {
+  background-color: #e2edff;
+}
+
+#Gallery {
+  background-color: #e2edff;
+}
+
+#Contact {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+blockquote::before,
+blockquote::after {
+  content: '"';
+  font-size: 24px;
+  font-style: italic;
+  font-weight: bold;
+}
